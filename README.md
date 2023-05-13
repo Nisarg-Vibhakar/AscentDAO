@@ -1,4 +1,4 @@
-*DAO Challenge*
+_DAO Challenge_
 This is a 10-day challenge to create a Decentralized Autonomous Organization (DAO) using blockchain technology and smart contracts. The goal is to build a functional and successful DAO in record time, documenting the journey through a LinkedIn series.
 
 *Table of Contents*

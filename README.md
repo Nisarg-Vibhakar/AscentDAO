@@ -1,69 +1,33 @@
-# How to Build a Glorious Web3.0 DAO with React, Solidity, and CometChat
+DAO Challenge
+This is a 10-day challenge to create a Decentralized Autonomous Organization (DAO) using blockchain technology and smart contracts. The goal is to build a functional and successful DAO in record time, documenting the journey through a LinkedIn series.
 
-Read the full tutorial here: [**>> How to Build a Glorious Web3.0 DAO with React, Solidity, and CometChat**](https://daltonic.github.io)
+Table of Contents
+Background
+Installation
+Usage
+Contributing
+License
+Background
+A DAO is an organization that operates on blockchain technology and is governed by smart contract rules. The distinguishing feature of a DAO is its decentralization, which allows for transparent and democratic decision-making.
 
-This example shows How to Build a Glorious Web3.0 DAO with React, Solidity, and CometChat:
+The purpose of this challenge is to explore the potential of DAOs and the blockchain ecosystem, while also pushing oneself to complete a creative project in a short timeframe.
 
-![Dominion DAO Project](./screenshots/0.gif)
-<center><figcaption>Dominion DAO Project</figcaption></center>
+Installation
+This project requires knowledge of blockchain technology, smart contracts, and programming languages like Solidity. Please make sure to have a working knowledge of these concepts before attempting to replicate this project.
 
-## Technology
+If you fail to replicate, feel free to contact me for help.
 
-This demo uses:
+Usage
+The project is documented through a LinkedIn series that provides daily updates on progress made towards the creation of the DAO. Each post includes information about the tasks completed that day, as well as insights and lessons learned.
 
-- Metamask
-- Truffle
-- Infuria
-- ReactJs
-- Tailwind CSS
-- Ganache-CLI
-- Solidity
-- Web3js
-- Faucet
+Link to my profile: https://www.linkedin.com/in/nisarg-vibhakar-23b7a7141/
 
-## Running the demo
+Contributing
+As this is an individual project, there are no contributions to be made. However, feedback and suggestions are welcome and can be shared through LinkedIn or other channels.
 
-To run the demo follow these steps:
+License
+This project is licensed under the MIT license.
 
-1. Clone the project with the code below.
-    ```sh
-
-    # Make sure you have the above prerequisites installed already!
-    git clone https://github.com/Daltonic/dominionDAO PROVIDER_NAME
-    cd PROVIDER_NAME # Navigate to the new folder.
-    yarn install # Installs all the dependencies.
-    ```
-2. Create an Infuria project, copy and paste your key in the spaces below.
-3. Update the `.env` file with the following details.
-    ```sh
-    ENDPOINT_URL=<PROVIDER_URL>
-    SECRET_KEY=<SECRET_PHRASE>
-    DEPLOYER_KEY=<YOUR_PRIVATE_KEY>
-    ```
-2. Create a CometChat project, copy and paste your key in the spaces below.
-3. Update the `.env` file with the following details.
-    ```sh
-    REACT_APP_COMET_CHAT_REGION=<REGION>
-    REACT_APP_COMET_CHAT_APP_ID=<APP_ID>
-    REACT_APP_COMET_CHAT_AUTH_KEY=<AUTH_KEY>
-    ```
-3. Run the app using `yarn start`
-<br/>
-
-If your confuse about the installation, check out this **TUTORIAL** to see how you should run it.
-
-Questions about running the demo? [Open an issue](https://github.com/Daltonic/dominionDAO/issues). We're here to help ✌️
-
-## Useful links
-
-- 🏠 [Website](https://daltonic.github.io/)
-- ⚽ [Metamask](https://metamask.io/)
-- 🚀 [Remix Editor](https://remix.ethereum.org/)
-- 💡 [Truffle](https://trufflesuite.com/)
-- 📈 [Infuria](https://infura.io/)
-- 🔥 [ReactJs](https://reactjs.org/)
-- 🐻 [Solidity](https://soliditylang.org/)
-- 👀 [Web3Js](https://docs.ethers.io/v5/)
-- 🎅 [Faucet](https://faucets.chain.link/rinkeby)
-- 🤖 [Ganache](https://trufflesuite.com/ganache/index.html)
-- ✨ [Live Demo](https://dominiondao.web.app/)
+Demo
+Finally, here is a short video of my DAO
+![Demo Video](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2JhZTUyYzgxZDY0NWFjY2Y1OTRmMTFhZmZlYjA5ZTVlZDVmZjVlNSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/Z77APuXqodVH2B40LI/giphy.gif)
